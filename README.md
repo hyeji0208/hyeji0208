@@ -1,57 +1,51 @@
-<h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> email 📮</h2>
+<h2>🖐️</h2>
 
--✉mos137137@gmail.com <br>
-
--✉mos1367@naver.com
-
-<br/>
-<br/>
+<div style="margin-top: 10px;">
+  <span>📧 <strong>Email:</strong> mos137137@gmail.com / mos1367@naver.com</span><br/>
+  <span>🎨 <strong>취미:</strong> 게임 🎮, 독서 📚, 영화 🎬, 산책 🚶‍♀️</span><br/>
+</div>
 
 
-<h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Tech Stack ✨</h2>
+<br>
+<br>
 
 
-<div>
-    <div style="margin: 0 auto; text-align: center;"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
-          <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
-          </div>
-    </div>
+<h2> Tech Stack ✨</h2>
 
-<br/>
-<br/>
+<img align="left" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
+<img align="left" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
 
-
-<h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Studying 📚</h2>
-<div>
-    <div style="margin: 0 auto; text-align: center;"> <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
-          <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
-          </div>
-    </div>
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyeji0208&layout=compact&theme=tokyonight">
 
 <br/>
 <br/>
 
 
-<h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Tools 🛠</h2>
-<div>
-    <div style="margin: 0 auto; text-align: center;" <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
-          <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white">
-          <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
-          </div>
-    </div>
-    
-<br/>
-<br/>
-    
+<h2> Studying 📚</h2>
+
+<img align="left" src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
+<img align="left" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
+
+<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hyeji0208">
 
 
-<h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Working 🖥️</h2>
+<br/>
+<br/>
+
+
+<h2> Tools 🛠</h2>
+
+<img align="left" src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white">
+<img align="left" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
+<img align="left" src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
+
+
+<br/>
+<br/>
+
+<h2> Working 🖥️</h2>
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hyeji0208&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyeji0208&layout=compact&theme=tokyonight)
-![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hyeji0208)
-
 
 
 <!--
