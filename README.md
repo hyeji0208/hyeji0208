@@ -1,3 +1,25 @@
+### 💡 Tech Stack
+- **Languages:** Python, SQL (learning Java & C)
+
+### 🌱 Current Focus
+- 📚 Algorithm study using Python (Baekjoon)
+- 📊 Data dashboard project with SQL + visualization tools
+- 💻 Preparing for coding bootcamps
+
+### 🔨 Projects
+- [🏃 Python_game](https://github.com/hyeji0208/Python_game): A simple running game made with the Ursina engine  
+- 📊 *(Coming soon)* Data dashboard project using real-world nursing education data  
+- 🧠 Algorithm practice repo (Baekjoon): *in progress...*
+
+
+### 📫 Contact
+- Email: mos137137@gmail.com
+
+---
+
+![Stats](https://github-readme-stats.vercel.app/api?username=hyeji0208&show_icons=true&theme=dark)
+
+
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hyeji0208&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyeji0208&layout=compact&theme=tokyonight)
