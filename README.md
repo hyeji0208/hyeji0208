@@ -1,3 +1,11 @@
+<h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> email 📮</h2>
+mos137137@gmail.com
+mos1367@naver.com
+
+<br/>
+<br/>
+
+
 <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Tech Stack ✨</h2>
 
 
@@ -33,18 +41,6 @@
 <br/>
 <br/>
     
-
-
-<h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Contact 📮</h2>
-<div>
-  <a href="mailto:mos137137@gmail.com">
-    <img
-      src="https://img.shields.io/badge/mos137137@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"
-  </a>
-</div>
-
-<br/>
-<br/>
 
 
 <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Working 🖥️</h2>
