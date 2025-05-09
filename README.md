@@ -1,15 +1,7 @@
 <h2>🖐️</h2>
 
-
 <p align="left">
-  📧 <strong>Email</strong><br/>
-  
-<img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=flat-square&logo=Gmail&logoColor=white"/> mos137137@gmail.com <br>
-<img src="https://img.shields.io/badge/Naver-03C75A.svg?style=flat-square&logo=Naver&logoColor=white"/> mos1367@naver.com
-</p><br>
-
-<p align="left">
-  🎓 Bachelor of Engineering (Data Science) at Kangnam uni<br/><br/>
+  🎓 BEng (Data Science) @KNU<br/><br/>
 
 <p align="left">
   🎨 <strong>취미</strong><br/>
@@ -17,10 +9,14 @@
  &emsp;게임 🎮 <br>
    &emsp;독서 📚 <br>
    &emsp;영화 🎬 <br>
-</p>
+</p><br/>
 
-<br>
-
+<p align="left">
+  📧 <strong>Email</strong><br/>
+  
+<img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=flat-square&logo=Gmail&logoColor=white"/> mos137137@gmail.com <br>
+<img src="https://img.shields.io/badge/Naver-03C75A.svg?style=flat-square&logo=Naver&logoColor=white"/> mos1367@naver.com
+</p><br>
 
 
 <h2> Tech Stack ✨</h2>
