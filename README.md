@@ -9,7 +9,7 @@
 <br/>
 
 
-<h3 align="center">📚 Studying 🤓</h3>
+<h3 align="center">🤓 Studying 🤓</h3>
 <div align= "center">
     <div style="margin: 0 auto; text-align: center;" align= "center"> <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
           <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
@@ -41,7 +41,10 @@
   </a>
 </div>
 
-<br>
+<br/>
+<br/>
+
+<h3 align="center">🖥️ Working 🖥️</h3>
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hyeji0208&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyeji0208&layout=compact&theme=tokyonight)
