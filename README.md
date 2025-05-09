@@ -27,6 +27,7 @@
           <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
           </div>
     </div>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hyeji0208)](https://solved.ac/hyeji0208/)
 
 <br/>
 <br/>
