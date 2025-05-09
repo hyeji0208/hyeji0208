@@ -1,11 +1,12 @@
-<h3 align="center">✨ Tech Stack ✨</h3>
+<h3 align="center">###✨ Tech Stack ✨</h3>
 <div align= "center">
     <div style="margin: 0 auto; text-align: center;" align= "center"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
           <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
           </div>
     </div>
 
-<br>
+<br/>
+<br/>
     
 
 <h3 align="center">📚 Studying 🤓</h3>
@@ -15,7 +16,8 @@
           </div>
     </div>
 
-<br>
+<br/>
+<br/>
 
 
 <h3 align="center">🛠 Tools 🛠</h3>
@@ -26,7 +28,8 @@
           </div>
     </div>
     
-<br>
+<br/>
+<br/>
     
 
 
