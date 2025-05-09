@@ -1,4 +1,4 @@
-<h3 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Tech Stack ✨</h3>
+<h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Tech Stack ✨</h2>
 
 
 <div>
@@ -11,7 +11,7 @@
 <br/>
 
 
-<h3 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Studying 📚</h3>
+<h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Studying 📚</h2>
 <div>
     <div style="margin: 0 auto; text-align: center;"> <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
           <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
@@ -22,7 +22,7 @@
 <br/>
 
 
-<h3 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Tools 🛠</h3>
+<h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Tools 🛠</h2>
 <div>
     <div style="margin: 0 auto; text-align: center;" <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
           <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white">
@@ -35,7 +35,7 @@
     
 
 
-<h3 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Contact 📮</h3>
+<h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Contact 📮</h2>
 <div>
   <a href="mailto:mos137137@gmail.com">
     <img
@@ -46,9 +46,8 @@
 <br/>
 <br/>
 
-<h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> ✨ Tech Stack ✨ </h2>
 
-<h3 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Working 🖥️</h3>
+<h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Working 🖥️</h2>
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hyeji0208&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyeji0208&layout=compact&theme=tokyonight)
