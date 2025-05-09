@@ -6,8 +6,10 @@
   
 <img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=flat-square&logo=Gmail&logoColor=white"/> mos137137@gmail.com <br>
 <img src="https://img.shields.io/badge/Naver-03C75A.svg?style=flat-square&logo=Naver&logoColor=white"/> mos1367@naver.com
-</p>
+</p><br>
 
+<p align="left">
+  🎓 Bachelor of Engineering (Data Science) at Kangnam uni<br/><br/>
 
 <p align="left">
   🎨 <strong>취미</strong><br/>
