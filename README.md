@@ -28,7 +28,7 @@
           </div>
     </div>
     
-![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hyeji0208)]
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hyeji0208)]
 
 <br/>
 <br/>
