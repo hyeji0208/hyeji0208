@@ -1,5 +1,5 @@
 <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> email 📮</h2>
-mos137137@gmail.com
+mos137137@gmail.com <br>
 mos1367@naver.com
 
 <br/>
