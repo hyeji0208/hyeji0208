@@ -1,18 +1,34 @@
-### 💡 Tech Stack
-- **Languages:** Python, SQL (learning Java & C)
+<h3 align="center">✨ Tech Stack ✨</h3>
+<div align= "center">
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks </h2> <br> 
+    <div style="margin: 0 auto; text-align: center;" align= "center"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
+          <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+          </div>
+    </div>
+    
 
-### 🌱 Current Focus
-- 📚 Algorithm study using Python (Baekjoon)
-- 📊 Data dashboard project with SQL + visualization tools
-- 💻 Preparing for coding bootcamps
+<h3 align="center">📚 Studying 🤓</h3>
+<div align= "center">
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks </h2> <br> 
+    <div style="margin: 0 auto; text-align: center;" align= "center"> <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
+          <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
+          </div>
+    </div>
+    
 
-### 🔨 Projects
-- [🏃 Python_game](https://github.com/hyeji0208/Python_game): A simple running game made with the Ursina engine  
-- 📊 *(Coming soon)* Data dashboard project using real-world nursing education data  
-- 🧠 Algorithm practice repo (Baekjoon): *in progress...*
+
+<h3 align="center">🛠 Tools 🛠</h3>
+<div align= "center">
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks </h2> <br> 
+    <div style="margin: 0 auto; text-align: center;" align= "center"> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
+          <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white">
+          <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
+          </div>
+    </div>
+    
 
 
-### 📫 Contact
+<h3 align="center">📮 Contact 📮</h3>
 - Email: mos137137@gmail.com
 
 ---
