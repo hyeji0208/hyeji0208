@@ -4,7 +4,8 @@
           <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
           </div>
     </div>
-    <br>
+
+<br>
     
 
 <h3 align="center">📚 Studying 🤓</h3>
@@ -13,7 +14,8 @@
           <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
           </div>
     </div>
-    <br>
+
+<br>
 
 
 <h3 align="center">🛠 Tools 🛠</h3>
@@ -23,14 +25,20 @@
           <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
           </div>
     </div>
-    <br>
+    
+<br>
     
 
 
 <h3 align="center">📮 Contact 📮</h3>
-- Email: mos137137@gmail.com
+<div align="center">
+  <a href="mailto:mos137137@gmail.com">
+    <img
+      src="https://img.shields.io/badge/oka1313@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+  </a>
+</div>
 
----
+<br>
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hyeji0208&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyeji0208&layout=compact&theme=tokyonight)
