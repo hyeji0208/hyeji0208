@@ -27,8 +27,7 @@
           <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
           </div>
     </div>
-    
-![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hyeji0208)
+
 
 <br/>
 <br/>
@@ -51,6 +50,8 @@
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hyeji0208&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyeji0208&layout=compact&theme=tokyonight)
+![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hyeji0208)
+
 
 
 <!--
