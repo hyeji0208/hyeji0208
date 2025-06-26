@@ -3,12 +3,6 @@
 <p align="left">
   🎓 BEng (Data Science) @KNU<br/><br/>
 
-<p align="left">
-  🎨 <strong>취미</strong><br/>
-  
- &emsp;게임 🎮 <br>
-   &emsp;독서 📚 <br>
-   &emsp;영화 🎬 <br>
 </p><br/>
 
 <p align="left">
