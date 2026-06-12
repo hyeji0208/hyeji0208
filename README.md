@@ -29,8 +29,6 @@
 <img align="left" src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
 <img align="left" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
 
-<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hyeji0208">
-
 
 <br/>
 <br/>
